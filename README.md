@@ -13,8 +13,8 @@ This is a technical test problem for BYU OIT student programer application
   3. **Debugging: 1 hour**
      - Fixed deeper errors and syntax.
     
-# Documentation
+## Documentation
   they are in the executable: docstrings and comments.
 
-# Future Improvements
+## Future Improvements
   find a way to fix the draw_bodypart function, you can not just write a list and tell people to use their imagination...
